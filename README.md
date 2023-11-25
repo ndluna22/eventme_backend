@@ -1,7 +1,7 @@
 # EventMe App
 
 
-[EventMe] (eventme-app.surge.sh)
+[EventMe](eventme-app.surge.sh)
 
 
 ## Description:
