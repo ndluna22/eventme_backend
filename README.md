@@ -1,7 +1,7 @@
 # EventMe App
 
 Link : [EventMe App](eventme-app.surge.sh)
-![image]()
+
 
 ## Description:
 You can find artists and events by using EventMe. You can also view the upcoming events and get more information on your favorite artist. 
