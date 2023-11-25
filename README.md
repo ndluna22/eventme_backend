@@ -2,7 +2,7 @@
 
 [EventMe](#eventapp)
  
-<a href="eventme-app.surge.sh" name="eventapp"></a>
+<a href="eventme-app.surge.sh" name="eventme-app.surge.sh"></a>
 
 [EventMe](eventme-app.surge.sh)
 
