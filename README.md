@@ -1,6 +1,6 @@
 # EventMe App
 
-(eventme-app.surge.sh)
+[EventMe App](https://eventme-app.surge.sh/)
 
 
 ## Description:
